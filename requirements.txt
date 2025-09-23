@@ -1,0 +1,11 @@
+# 核心软件工具（请根据实际环境自行安装）
+bwa>=0.7.17
+samtools>=1.17
+picard>=2.27
+fastqc>=0.12
+fastp>=0.23
+gatk>=4.4
+bcftools>=1.17
+vcftools>=0.1.17
+multiqc>=1.14
+seqtk>=1.3
